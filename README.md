@@ -60,3 +60,7 @@ User: no
 ## 7. Youtube Code Walk
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VZEVI8fNkyg/0.jpg)](https://www.youtube.com/watch?v=VZEVI8fNkyg)
+
+[Report.pdf](https://github.com/deepak6174/ChatBot/files/15032433/Assignment.1.Report.pdf)
+
+
